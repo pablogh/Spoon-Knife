@@ -18,5 +18,6 @@ p {
 
 a {
   backgroud-color : green;
-  font-height: 15px;
+  font: 15px;
+  width: 10px;
 }
