@@ -22,9 +22,8 @@ a {
   width: 10px;
 }
 
-div {
-  width: 100px;
-  height: 200px;
-  margin: auto;
-  display: block;
+body {
+  margin-top:20px;
+  padding-top:20px;
+  background-color:white;
 }
